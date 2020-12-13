@@ -1,7 +1,19 @@
-ImGui::text("News"); ImGui::spacing();
-ImGui::text("New Menu"); ImGui::spacing();
-ImGui::text("New SpectatorList"); ImGui::spacing();
-ImGui::text("New ProtectMetod"); ImGui::spacing();
-ImGui::text("RainbowBar"); ImGui::spacing();
-ImGui::text("BackDrop"); ImGui::spacing();
-ImGui::text("Bhop Humanize"); ImGui::spacing();
+News:
+
+
+New Menu
+
+
+New SpectatorList
+
+
+New ProtectMetod
+
+
+RainbowBar
+
+
+BackDrop
+
+
+Bhop Humanize
